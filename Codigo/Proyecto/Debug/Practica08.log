@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Practica07.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  P08-313067930.cpp
+C:\Users\adrii\Documents\CGIH_2023_1\Practica08\Practica08\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\adrii\Documents\CGIH_2023_1\Practica08\Practica08\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\adrii\Documents\CGIH_2023_1\Practica08\Practica08\P08-313067930.cpp(323,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\adrii\Documents\CGIH_2023_1\Practica08\Practica08\P08-313067930.cpp(325,33): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Practica08.vcxproj -> C:\Users\adrii\Documents\CGIH_2023_1\Practica08\Debug\Practica08.exe
